@@ -1,4 +1,14 @@
-# Personal Budget Manager
+# Personal Budget Manager 
+
+![Java](https://img.shields.io/badge/Java-JDK%2017-orange)
+![Type](https://img.shields.io/badge/type-Console-lightgrey)
+![Persistence](https://img.shields.io/badge/storage-CSV%20file-blue)
+![OOP](https://img.shields.io/badge/design-OOP-informational)
+![Status](https://img.shields.io/badge/status-learning%20project-lightgrey)
+
+
+A learning-focused console application that manages income and expense records with CSV-based persistence.
+
 
 A console-based Java application developed as part of my learning process while improving my understanding of fundamental Java concepts, Object-Oriented Programming, file handling, and modular program structure.
 
